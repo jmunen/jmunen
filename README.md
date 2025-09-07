@@ -1,4 +1,38 @@
-## Hi there 👋
+<h1>Hi, I'm Jackie Munene! <br/><a href="https://github.com/jmunen">Programmer</a>, <a href="www.linkedin.com/in/jackline-m-18b6051a0">AI/ML SWE</a>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Full Stack project (FASTAPI, React, Tailwind, Supabase Auth)</b>
+  - [Telehealth/EMR SOFTWARE](https://github.com/jmunen/emr-telehealth-mvp])
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Retrieval-Augmented Generation (RAG) System – NetApp
+](https://github.com/haigshiroz/rag-project.git])
+- <b>Python project</b>
+  - [](https://github.com/jmunen/..)
+  - [](https://github.com/jmunen/..)
+  - [](https://github.com/jmunen/..)
+  - [](https://github.com/jmunen/..)
+- <b>C#, C projects</b>
+  - [](https://github.com/jmunen/..)
+  - [](https://github.com/jmunen/..)
+  - [](https://github.com/jmunen/..)
+- <b>Java projects</b>
+  - [](https://github.com/jmunen/..)
+- <b>SQL projects</b>
+  - [](https://github.com/jmunen/..)
+
+<h2>Certifications:</h2>
+- 
+- 
+- 
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JackieMunene | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JackieMunene| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/scrubstosoftware/
+[linkedin]: https://linkedin.com/in/jackline-m-18b6051a0
 
 <!--
 **jmunen/jmunen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
