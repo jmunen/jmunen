@@ -17,7 +17,7 @@
   - [](https://github.com/jmunen/..)
   - [](https://github.com/jmunen/..)
 - <b>Java projects</b>
-  - [](https://github.com/jmunen/..)
+  - [Appointment Management System](https://github.com/jmunen/projects])
 - <b>SQL projects</b>
   - [](https://github.com/jmunen/..)
 
