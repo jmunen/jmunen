@@ -20,6 +20,8 @@
   - [Appointment Management System](https://github.com/jmunen/projects])
 - <b>SQL projects</b>
   - [](https://github.com/jmunen/..)
+- <b>Web development projects</b>
+  - [](https://github.com/jmunen/..)
 
 <h2>Certifications:</h2>
 - 
