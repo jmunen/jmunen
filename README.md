@@ -21,7 +21,7 @@
 - <b>SQL projects</b>
   - [](https://github.com/jmunen/..)
 - <b>Web development projects</b>
-  - [](https://github.com/jmunen/..)
+  - [Sudoku - Travel edition](https://github.com/jmunen/cs5610_spring2025_project])
 
 <h2>Certifications:</h2>
 - 
