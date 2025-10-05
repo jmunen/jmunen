@@ -3,10 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack project (FASTAPI, React, Tailwind, Supabase Auth)</b>
-  - [Telehealth/EMR SOFTWARE](https://github.com/jmunen/emr-telehealth-mvp])
+  - [Telehealth/EMR SOFTWARE](https://github.com/jmunen/emr-telehealth-mvp)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Retrieval-Augmented Generation (RAG) System – NetApp
-](https://github.com/haigshiroz/rag-project.git])
+](https://github.com/haigshiroz/rag-project.git)
 - <b>Python project</b>
   - [](https://github.com/jmunen/..)
   - [](https://github.com/jmunen/..)
@@ -17,11 +17,11 @@
   - [](https://github.com/jmunen/..)
   - [](https://github.com/jmunen/..)
 - <b>Java projects</b>
-  - [Appointment Management System](https://github.com/jmunen/projects])
+  - [Appointment Management System](https://github.com/jmunen/projects)
 - <b>SQL projects</b>
   - [](https://github.com/jmunen/..)
 - <b>Web development projects</b>
-  - [Sudoku - Travel edition](https://github.com/jmunen/cs5610_spring2025_project])
+  - [Sudoku - Travel edition](https://github.com/jmunen/cs5610_spring2025_project)
 
 <h2>Certifications:</h2>
 - 
